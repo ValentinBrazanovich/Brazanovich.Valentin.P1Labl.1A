@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1666565805 source:c:\users\joshua\desktop\examen laboratorio 1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1666190011 c:\users\joshua\desktop\examen laboratorio 1\tipo.h
+
+1666191116 source:c:\users\joshua\desktop\examen laboratorio 1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1666191122 c:\users\joshua\desktop\examen laboratorio 1\color.h
+
+1666794145 source:c:\users\joshua\desktop\examen laboratorio 1\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"validaciones.h"
+
+1666789577 c:\users\joshua\desktop\examen laboratorio 1\bicicleta.h
+	"tipo.h"
+	"color.h"
+
+1666797191 source:c:\users\joshua\desktop\examen laboratorio 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"servicio.h"
+	"trabajo.h"
+
+1666796210 c:\users\joshua\desktop\examen laboratorio 1\servicio.h
+
+1666797052 c:\users\joshua\desktop\examen laboratorio 1\trabajo.h
+	"bicicleta.h"
+	"tipo.h"
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+
+1666796252 c:\users\joshua\desktop\examen laboratorio 1\fecha.h
+
+1666796150 source:c:\users\joshua\desktop\examen laboratorio 1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1666797202 source:c:\users\joshua\desktop\examen laboratorio 1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"validaciones.h"
+
+1666792545 source:c:\users\joshua\desktop\examen laboratorio 1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1666576056 c:\users\joshua\desktop\examen laboratorio 1\validaciones.h
+	"servicio.h"
+	"trabajo.h"
+
